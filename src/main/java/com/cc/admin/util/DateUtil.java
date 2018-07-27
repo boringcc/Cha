@@ -6,12 +6,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 
-/** 
- * 说明：日期处理
- * 创建人：FH Q313596790
- * 修改时间：2015年11月24日
- * @version
- */
+
 public class DateUtil {
 	
 	private final static SimpleDateFormat sdfYear = new SimpleDateFormat("yyyy");
