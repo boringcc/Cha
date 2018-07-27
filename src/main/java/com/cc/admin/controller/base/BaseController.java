@@ -11,10 +11,6 @@ import org.springframework.web.servlet.ModelAndView;
 
 import javax.servlet.http.HttpServletRequest;
 
-/**
- * @author FH Q313596790
- * 修改时间：2015、12、11
- */
 public class BaseController {
 	
 	protected Logger logger = Logger.getLogger(this.getClass());
