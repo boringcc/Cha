@@ -2,11 +2,7 @@ package com.cc.admin.util;
 
 import org.springframework.context.ApplicationContext;
 
-/**
- * 项目名称：
- * @author:fh qq313596790[青苔]
- * 修改日期：2015/11/2
-*/
+
 public class Const {
 	public static final String PAGE	= "admin/config/PAGE.txt";				//分页条数配置路径
 	public static final String KB12 = "091A380801AA41E4A508D9AC2455AF87";  //上午12节课
