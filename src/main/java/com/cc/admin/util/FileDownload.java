@@ -5,12 +5,7 @@ import java.io.BufferedOutputStream;
 import java.io.OutputStream;
 import java.net.URLEncoder;
 
-/**
- * 下载文件
- * 创建人：FH Q313596790
- * 创建时间：2014年12月23日
- * @version
- */
+
 public class FileDownload {
 
 	/**
