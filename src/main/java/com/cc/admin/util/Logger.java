@@ -2,8 +2,6 @@ package com.cc.admin.util;
 
 /** 
  * 说明：日志处理
- * 创建人：FH Q313596790
- * 修改时间：2014年9月20日
  * @version
  */
 public class Logger {
